@@ -46,7 +46,7 @@
 [Youtube](https://www.youtube.com/)
 
 **Table**
-|NAME|BRANCH|COLLEGE|
+| NAME | BRANCH | COLLEGE |
 |----|----|----|
 |abc|cse|VRSEC|
 |xyz|EIE|VRSEC|
